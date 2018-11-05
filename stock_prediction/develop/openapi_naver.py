@@ -1,2 +1,1 @@
-import request
-
+# requested api auth key to naver.com
