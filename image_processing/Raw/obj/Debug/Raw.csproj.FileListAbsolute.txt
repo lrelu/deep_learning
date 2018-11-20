@@ -1,0 +1,15 @@
+D:\KW_DATA\97_GIT\deep_learning\image_processing\Raw\obj\Debug\Raw.csprojAssemblyReference.cache
+D:\KW_DATA\97_GIT\deep_learning\image_processing\Raw\obj\Debug\Raw.Form1.resources
+D:\KW_DATA\97_GIT\deep_learning\image_processing\Raw\obj\Debug\Raw.Properties.Resources.resources
+D:\KW_DATA\97_GIT\deep_learning\image_processing\Raw\obj\Debug\Raw.csproj.GenerateResource.cache
+D:\KW_DATA\97_GIT\deep_learning\image_processing\Raw\obj\Debug\Raw.csproj.CoreCompileInputs.cache
+D:\KW_DATA\97_GIT\deep_learning\image_processing\Raw\bin\Debug\Raw.exe.config
+D:\KW_DATA\97_GIT\deep_learning\image_processing\Raw\bin\Debug\Raw.exe
+D:\KW_DATA\97_GIT\deep_learning\image_processing\Raw\bin\Debug\Raw.pdb
+D:\KW_DATA\97_GIT\deep_learning\image_processing\Raw\bin\Debug\MySql.Data.dll
+D:\KW_DATA\97_GIT\deep_learning\image_processing\Raw\bin\Debug\Google.Protobuf.dll
+D:\KW_DATA\97_GIT\deep_learning\image_processing\Raw\bin\Debug\MySql.Data.xml
+D:\KW_DATA\97_GIT\deep_learning\image_processing\Raw\obj\Debug\Raw.csproj.CopyComplete
+D:\KW_DATA\97_GIT\deep_learning\image_processing\Raw\obj\Debug\Raw.exe
+D:\KW_DATA\97_GIT\deep_learning\image_processing\Raw\obj\Debug\Raw.pdb
+D:\KW_DATA\97_GIT\deep_learning\image_processing\Raw\obj\Debug\Raw.FrmRaw.resources

@@ -1,0 +1,10 @@
+D:\KW_DATA\97_GIT\deep_learning\image_processing\Emgu\bin\Debug\Emgu.exe.config
+D:\KW_DATA\97_GIT\deep_learning\image_processing\Emgu\bin\Debug\Emgu.exe
+D:\KW_DATA\97_GIT\deep_learning\image_processing\Emgu\bin\Debug\Emgu.pdb
+D:\KW_DATA\97_GIT\deep_learning\image_processing\Emgu\obj\Debug\Emgu.csprojAssemblyReference.cache
+D:\KW_DATA\97_GIT\deep_learning\image_processing\Emgu\obj\Debug\Emgu.Form1.resources
+D:\KW_DATA\97_GIT\deep_learning\image_processing\Emgu\obj\Debug\Emgu.Properties.Resources.resources
+D:\KW_DATA\97_GIT\deep_learning\image_processing\Emgu\obj\Debug\Emgu.csproj.GenerateResource.cache
+D:\KW_DATA\97_GIT\deep_learning\image_processing\Emgu\obj\Debug\Emgu.csproj.CoreCompileInputs.cache
+D:\KW_DATA\97_GIT\deep_learning\image_processing\Emgu\obj\Debug\Emgu.exe
+D:\KW_DATA\97_GIT\deep_learning\image_processing\Emgu\obj\Debug\Emgu.pdb

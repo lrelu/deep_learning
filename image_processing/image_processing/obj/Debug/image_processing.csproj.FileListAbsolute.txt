@@ -1,0 +1,9 @@
+D:\KW_DATA\97_GIT\deep_learning\image_processing\image_processing\bin\Debug\image_processing.exe.config
+D:\KW_DATA\97_GIT\deep_learning\image_processing\image_processing\bin\Debug\image_processing.exe
+D:\KW_DATA\97_GIT\deep_learning\image_processing\image_processing\bin\Debug\image_processing.pdb
+D:\KW_DATA\97_GIT\deep_learning\image_processing\image_processing\obj\Debug\image_processing.csprojAssemblyReference.cache
+D:\KW_DATA\97_GIT\deep_learning\image_processing\image_processing\obj\Debug\image_processing.Properties.Resources.resources
+D:\KW_DATA\97_GIT\deep_learning\image_processing\image_processing\obj\Debug\image_processing.csproj.GenerateResource.cache
+D:\KW_DATA\97_GIT\deep_learning\image_processing\image_processing\obj\Debug\image_processing.csproj.CoreCompileInputs.cache
+D:\KW_DATA\97_GIT\deep_learning\image_processing\image_processing\obj\Debug\image_processing.exe
+D:\KW_DATA\97_GIT\deep_learning\image_processing\image_processing\obj\Debug\image_processing.pdb

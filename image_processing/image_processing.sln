@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "image_processing", "image_processing\image_processing.csproj", "{C5951573-1DCA-49BD-8BBF-12AE7E98E459}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emgu", "Emgu\Emgu.csproj", "{F56C8EC1-BD6B-482A-902A-63DECF4B3C45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raw", "Raw\Raw.csproj", "{2441A003-7F95-4DA5-8B71-054D851EB28C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5951573-1DCA-49BD-8BBF-12AE7E98E459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5951573-1DCA-49BD-8BBF-12AE7E98E459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5951573-1DCA-49BD-8BBF-12AE7E98E459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5951573-1DCA-49BD-8BBF-12AE7E98E459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F56C8EC1-BD6B-482A-902A-63DECF4B3C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56C8EC1-BD6B-482A-902A-63DECF4B3C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56C8EC1-BD6B-482A-902A-63DECF4B3C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56C8EC1-BD6B-482A-902A-63DECF4B3C45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2441A003-7F95-4DA5-8B71-054D851EB28C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2441A003-7F95-4DA5-8B71-054D851EB28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2441A003-7F95-4DA5-8B71-054D851EB28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2441A003-7F95-4DA5-8B71-054D851EB28C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A027A0F-A51D-4D7F-A07A-D0DC782D98B4}
+	EndGlobalSection
+EndGlobal
