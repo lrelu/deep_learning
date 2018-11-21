@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vision_processing", "vision_processing\vision_processing.csproj", "{AD6190BC-A136-4059-8F67-28257ABE5A45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{5F6B97F8-7EA6-4B5D-9A5D-F5581505C303}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectFault", "TestProject\DetectFault.csproj", "{5F6B97F8-7EA6-4B5D-9A5D-F5581505C303}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

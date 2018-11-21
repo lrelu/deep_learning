@@ -1,7 +1,7 @@
 using System;
 using System.Windows.Forms;
 
-namespace TestProject
+namespace DetectFault
 {
     /// <summary>
     /// 프로그램
@@ -22,7 +22,7 @@ namespace TestProject
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmCam());
+            Application.Run(new Frm_DetectFault());
         }
 
         #endregion

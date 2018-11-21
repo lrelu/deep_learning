@@ -1,0 +1,10 @@
+D:\KW_DATA\97_GIT\deep_learning\vision_processing\vision_processing\bin\Debug\vision_processing.exe.config
+D:\KW_DATA\97_GIT\deep_learning\vision_processing\vision_processing\bin\Debug\vision_processing.exe
+D:\KW_DATA\97_GIT\deep_learning\vision_processing\vision_processing\bin\Debug\vision_processing.pdb
+D:\KW_DATA\97_GIT\deep_learning\vision_processing\vision_processing\obj\Debug\vision_processing.csprojAssemblyReference.cache
+D:\KW_DATA\97_GIT\deep_learning\vision_processing\vision_processing\obj\Debug\vision_processing.Form1.resources
+D:\KW_DATA\97_GIT\deep_learning\vision_processing\vision_processing\obj\Debug\vision_processing.Properties.Resources.resources
+D:\KW_DATA\97_GIT\deep_learning\vision_processing\vision_processing\obj\Debug\vision_processing.csproj.GenerateResource.cache
+D:\KW_DATA\97_GIT\deep_learning\vision_processing\vision_processing\obj\Debug\vision_processing.csproj.CoreCompileInputs.cache
+D:\KW_DATA\97_GIT\deep_learning\vision_processing\vision_processing\obj\Debug\vision_processing.exe
+D:\KW_DATA\97_GIT\deep_learning\vision_processing\vision_processing\obj\Debug\vision_processing.pdb
